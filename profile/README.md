@@ -4,4 +4,4 @@ We are an Open Source Community based in and around Jaypee Institute of Informat
 
 We also organize various workshops, talks and hackathons in an effort towards encouraging more people to lean into the open source world! We love having late night conversations on tech and building new things. If you love the same just hop in, we are looking forward for your participation.
 
-Our socials at https://osdc.dev/links/
+Our socials are at https://links.osdc.dev/
